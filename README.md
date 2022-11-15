@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me - lukavasha03@gmail.com
-- 💼 Please check my portfolio - coming soon!
+- 💼 Please check my portfolio - https://vashakmadze.github.io/portfolio/
 
 ![FUNNY GIF](https://media2.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e478e8b3nl2k6hvojucbxsukc2554j3zxqgrrc4sowf&rid=giphy.gif&ct=g "GIF")
 
