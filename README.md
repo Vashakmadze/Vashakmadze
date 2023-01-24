@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vashakmadze
 - 👀 I’m interested in React
-- 💼 Please check my portfolio - https://vashakmadze.github.io/portfolio/
+- 💼 Please check my portfolio website - https://vashakmadze.github.io/portfolio/
 - 🌱 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me - lukavasha03@gmail.com
