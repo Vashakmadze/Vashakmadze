@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vashakmadze
 - 👀 I’m interested in React
-- 📖 I'm currently working on [gadawere.ge](https://gadawere.ge/) - First ever Georgian Paraphrasing tool
+- 📖 I'm currently working on [gadawere.ge](https://gadawere.ge/) - First ever Georgian Paraphrasing tool with over 5k users.
 - 💼 Please check my portfolio website - https://vashakmadze.github.io/portfolio/
 - 🌱 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
 - 📫 How to reach me - lukavasha03@gmail.com
