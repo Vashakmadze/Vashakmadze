@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vashakmadze
-- 👀 I’m interested in React
+- 👀 I’m interested in React and .Net
 - 📖 I'm currently working on my project [gadawere.ge](https://gadawere.ge/) - First ever Georgian Paraphrasing and Summarization tool with over 10k users.
 - 💼 Please check my portfolio website - https://lukavasha.com/
 - 🌱 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
