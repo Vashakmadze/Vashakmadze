@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vashakmadze
 - 👀 I’m interested in React and .Net
-- 📖 I'm currently working on my project [gadawere.ge](https://gadawere.ge/) - First ever Georgian Paraphrasing and Summarization tool with over 10k users.
+- 🌱 I'm currently working at Scandiweb and building [gadawere.ge](https://gadawere.ge/) on the side
 - 💼 Please check my portfolio website - https://lukavasha.com/
-- 🌱 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
+- 📖 I’m currently studying BAS Applied Computer Science at Howest University of Applied Sciences
 - 📫 How to reach me - lukavasha03@gmail.com
 
 - This is my personal Repository. For work, I mainly use Gitlab (hence no activity)!
